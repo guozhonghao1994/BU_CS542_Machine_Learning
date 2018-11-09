@@ -1,6 +1,6 @@
 ## BU_CS542_Machine_Learning
 
-Instructor: Kate Saenko
+Instructor: Kate Saenko, Brian Kulis
 
 `CS542 Assignments`
 
